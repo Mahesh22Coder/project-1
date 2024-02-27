@@ -1,1 +1,2 @@
-# project-1
+# 3DEmotion
+python <=3.8
